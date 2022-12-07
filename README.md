@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DIO Bootcamp Inter Orange Tech +
 Repositório criado para planejar o ritmo de estudo mensal do Desenvolvedor Front-End, através do Bootcamp Inter Orange Tech +, na plataforma da [DIO](https://web.dio.me/home).
 
@@ -35,15 +34,7 @@ Repositório criado para planejar o ritmo de estudo mensal do Desenvolvedor Fron
 
 - [ ] Criando Objetos e Classes em JavaScript
 
- 
-
-
-
-=======
-# Bootcamp Inter Orange Tech - DIO
-Repositório criado para o Desafio de projeto.
->>>>>>> 3676b321152b41d531be21b092f16b2f1e67f0fc
-## Links úteis
+ ## Links úteis
 >[DIO Bootcamp Inter Orange Tech +](https://web.dio.me/track/81278323-8916-401b-8446-03118eaff280)
 
 >[Visual Studio Code](https://code.visualstudio.com/)
